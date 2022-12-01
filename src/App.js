@@ -23,10 +23,10 @@ function App() {
                 <Container>
                     <Nav variant="tabs">
                         <Nav.Item>
-                            <Nav.Link><Link to="/">Home</Link></Nav.Link>
+                            <Nav.Link><Link to="/">Menu</Link></Nav.Link>
                         </Nav.Item>
                         <Nav.Item>
-                            <Nav.Link><Link to="/createMovie">Create Movie</Link></Nav.Link>
+                            <Nav.Link><Link to="/createMovie">Créer un film</Link></Nav.Link>
                         </Nav.Item>
                     </Nav>
                     <NumberMovies />

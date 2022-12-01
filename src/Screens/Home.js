@@ -8,6 +8,7 @@ import Swal from 'sweetalert2';
 
 const Container = styled.div`
     display: flex;
+    justify-content: center;
     flex-wrap: wrap;
     gap: 20px;
     background: #363537;
